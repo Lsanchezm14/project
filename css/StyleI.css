@@ -1,0 +1,200 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+footer {
+  background-color: black;
+  padding: 25px;
+  border-top: 2px solid #FFFF00;
+  display: flex;
+  flex-wrap: wrap;
+  color: white;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+footer .LogoIG {
+  width: 1rem;
+  height: 1rem;
+  background-color: black;
+}
+footer .direccion {
+  padding: 10px;
+  color: white;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+footer .telefono {
+  padding: 10px;
+  text-decoration: none;
+  color: white;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+footer .terminosypoliticas {
+  position: absolute;
+  right: 0;
+  padding-right: 5px;
+}
+footer .Terminos {
+  margin-right: 10px;
+}
+
+footer {
+  background-color: black;
+  padding: 25px;
+  border-top: 2px solid #FFFF00;
+  display: flex;
+  flex-wrap: wrap;
+  color: white;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+footer .LogoIG {
+  width: 1rem;
+  height: 1rem;
+  background-color: black;
+}
+footer .direccion {
+  padding: 10px;
+  color: white;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+footer .telefono {
+  padding: 10px;
+  text-decoration: none;
+  color: white;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+footer .terminosypoliticas {
+  position: absolute;
+  right: 0;
+  padding-right: 5px;
+}
+footer .Terminos {
+  margin-right: 10px;
+}
+
+.logoOneCF {
+  width: 3rem;
+}
+
+.titulo {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: white;
+  padding-bottom: 2rem;
+  padding-top: 2rem;
+  text-align: center;
+  text-decoration: solid;
+  text-decoration-color: antiquewhite;
+  margin: 0;
+}
+
+.principal {
+  background-color: black;
+  border-top: 2px solid #FFFF00;
+  margin: 0;
+  padding-top: 15rem;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.slogan {
+  background-color: black;
+  border-bottom: 2px solid #FFFF00;
+  margin: 0;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.imagenprincipal {
+  width: 60%;
+}
+
+.imagenprincipal:hover {
+  scale: -1;
+}
+
+.Lamision {
+  background-color: black;
+  border-top: 2px solid #FFFF00;
+  color: white;
+  display: flex;
+  justify-content: center;
+}
+
+.lamisionI {
+  background-color: black;
+  color: white;
+  display: flex;
+  justify-content: center;
+}
+
+.misionone {
+  width: 70%;
+}
+
+.titulomision {
+  text-decoration: solid;
+  text-decoration-color: #FFFF00;
+  color: #FFFF00;
+}
+
+.videopresentacion {
+  display: flex;
+  justify-content: center;
+  background-color: black;
+}
+
+.horariosyprogramas {
+  display: grid;
+  grid-template-rows: 1fr;
+  grid-template-columns: 1fr 1fr;
+  background-color: black;
+  color: white;
+}
+
+.PROGRAMAS {
+  color: #FFFF00;
+}
+
+.Formularios {
+  display: grid;
+  grid-template-columns: 2fr 3fr;
+  grid-template-rows: 8fr 8fr 8fr 8fr 8fr 6fr;
+  padding-top: 2rem;
+  background-color: black;
+  border-top: 2px solid #FFFF00;
+}
+
+.input {
+  width: 40rem;
+}
+
+.datos {
+  color: white;
+}
+
+.contanosdevos {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 1rem;
+  background-color: black;
+}
+
+.Titulocontanos {
+  display: flex;
+  justify-content: center;
+  color: #FFFF00;
+  text-decoration: double;
+  padding-top: 4rem;
+  padding-bottom: 1rem;
+  background-color: black;
+}
+
+.botonenviar {
+  display: flex;
+  justify-content: center;
+  background-color: black;
+  padding-bottom: 2rem;
+}
+
+/*# sourceMappingURL=StyleI.css.map */
